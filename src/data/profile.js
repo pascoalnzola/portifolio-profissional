@@ -43,7 +43,7 @@ export const profile = {
     { label: { pt: 'Interesses', en: 'Interests' }, value: { pt: 'Eletrónica & Circuitos', en: 'Electronics & Circuits' } },
   ],
   socials: {
-    github: 'https://github.com/', // ← substitui pelo teu perfil
+    github: 'https://github.com/pascoalnzola',
     linkedin: 'https://linkedin.com/in/', // ← substitui pelo teu perfil
     whatsapp: '', // ex: 'https://wa.me/244945318673'
   },
