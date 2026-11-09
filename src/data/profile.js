@@ -44,7 +44,7 @@ export const profile = {
   ],
   socials: {
     github: 'https://github.com/pascoalnzola',
-    linkedin: 'https://linkedin.com/in/', // ← substitui pelo teu perfil
+    linkedin: 'https://www.linkedin.com/in/pascoal-nzola-tondo-a8b06827b/',
     whatsapp: '', // ex: 'https://wa.me/244945318673'
   },
 }
