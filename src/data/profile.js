@@ -6,7 +6,7 @@
 
 export const profile = {
   name: 'Pascoal Nzola Tondo',
-  shortName: 'Pascoal Tondo',
+  shortName: 'Pascoal',
   initials: 'PT',
   roles: {
     pt: ['Full Stack Developer', 'Team Leader', 'Criador de SaaS', 'Desenvolvedor Desktop C#'],
